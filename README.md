@@ -20,4 +20,4 @@ Unlike traditional approaches, Agile focuses on flexibility, collaboration, and 
 🔥 𝐈𝐬 𝐀𝐠𝐢𝐥𝐞 𝐫𝐢𝐠𝐡𝐭 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐩𝐫𝐨𝐣𝐞𝐜𝐭?
 ✔ If requirements change frequently ✅
 ✔ If quick releases & continuous feedback are needed ✅
-✔ If customer collaboration is a priority ✅
+✔ If customer collaboration is a priority ✅ 
